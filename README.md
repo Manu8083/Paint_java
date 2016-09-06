@@ -1,5 +1,5 @@
 # Paint_java
-###En este codigo tenemo un paint sencillo con java.
+###En este codigo tenemos un paint sencillo con java.
 # Sus funciones
   -Cambiar Color
   
